@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 int _strlen_recursion(char *s);
 int _comparission(char *s, int legth);
