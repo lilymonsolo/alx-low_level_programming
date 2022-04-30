@@ -1,3 +1,4 @@
+#!/bin/bash
 #ifndef MAIN
 #define MAIN
 
